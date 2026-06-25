@@ -1,3 +1,8 @@
+# Environment files (API keys, secrets)
+.env
+.env.local
+.env.*.local
+
 .image_workflow.json
 __pycache__/
 *.pyc
